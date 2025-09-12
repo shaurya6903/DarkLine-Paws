@@ -124,4 +124,10 @@ No Sound: There are no audio effects or background music implemented.
 
 Offline Only: The games are designed for local play and do not have online features or scoreboards.
 
+
+The Game is Launched at 
+https://darkline-paws.netlify.app/index.html
+
+All Rights reserved
+
 Enjoy your adventure with DarkLine Paws! 🐾
